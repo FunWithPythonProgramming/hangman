@@ -9,4 +9,5 @@ With the given list of words, we want to pick a random word and have the user gu
 * User must receive output each guess:
 	* How many guesses are left
 	* What letters have already been guessed
-	* Ccurrent status of guessed word
+	* Current status of guessed word
+
